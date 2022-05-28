@@ -10,16 +10,8 @@
 ```sh
 $ git clone https://github.com/Yasien99/Img-Filter.git
 ```
-2. **_Navigate to repository directory_**
-```sh
-$ cd Img-Filter\src
 
-```
-3. **_install project dependencies_**
-```sh
-pip install -r requirements.txt
-```
-4. **_Run the application_**
+2. **_Run the application_**
 ```sh
 python main.py 
 main.exe
